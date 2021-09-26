@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Jordan
 - 👀 I’m interested in working and having a career as a developer
-- 🌱 I’ve learned Java Script, CSS, HTML, Shopify, and Svelte.    
+- 🌱 I’ve learned Java Script, CSS, HTML, Shopify, WordPress and Svelte.    
 -    What separates me from the pack is my creativity and work ethic. I love to learn and display my ideas.  
 - 📫 My email is jordanjoseph25@yahoo.com
 
