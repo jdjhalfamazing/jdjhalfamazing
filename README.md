@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Jordan
 - 👀 I’m interested in working and having a career as a software developer
-- 🌱 I’ve learned Java Script, CSS, HTML, and WordPress and right now I am learning Java.     
+- 🌱 I’ve learned Java, Java Script, and React. 
 -    What separates me from the pack is my creativity and work ethic. I love to learn and display my ideas.  
 - 📫 My email is jordanjoseph25@yahoo.com
 
